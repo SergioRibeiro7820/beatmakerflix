@@ -1,183 +1,267 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Full Discos",
+      "link": "https://www.youtube.com/watch?v=N_7AQeyCcJc",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist de Discos e Docs Full",
+        "url": "https://www.youtube.com/playlist?list=PLrfH5jTaObKKGvjgttULkq9Qdnpzw3noa"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Salve! Eu sou #Thomazbeats e fiz uma playlist de discos (LP) e #Beatmakers do Brasil e do Mundo! #Sejabemvindo",
+          "url": "https://youtu.be/JqHNgWFwuXo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Jiro Inagaki & Soul Media - Funky Stuff (1975)",
+          "url": "https://youtu.be/kjxxVkSd0XA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Donald Byrd – Ethiopian Knights (1972)",
+          "url": "https://youtu.be/ZEXF7w7KOQ4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Tranzam - Funky Steps (1974)",
+          "url": "https://youtu.be/AKdVSaq0UHQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Ian Carr's Nucleus ‎– Out Of The Long Dark (1979)",
+          "url": "https://youtu.be/GX4Eh1DPb-E"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Passport ‎– Garden Of Eden (1979)",
+          "url": "https://youtu.be/5hkK6waQE9A"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Cedar Walton ‎– Mobius (1975)",
+          "url": "https://youtu.be/IyRLz4gvYXU"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Mythos ‎– Dreamlab (1975)",
+          "url": "https://youtu.be/zvq5US0BpoA"
+        },
+        {
+          "titulo": "Happy End - Kazemachi Roman (1971)",
+          "url": "https://youtu.be/GCU0parnHII"
+        },
+        {
+          "titulo": "Auracle - Glider (1978)",
+          "url": "https://youtu.be/Qj-gHhIduQM"
+        },
+        {
+          "titulo":"Ose ‎– Adonia (1978)",
+          "url":"https://youtu.be/6wImHbQiRmw"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "LO-FI Beattape",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "BEAT - Um Documentário",
+        "url": "https://www.youtube.com/watch?v=N_7AQeyCcJc"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Jazzbois - Jazzbois Goes Blunt [Full BeatTape]",
+          "url": "https://youtu.be/eeTttii_zhM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://youtu.be/ZhstyJSNKME"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Coffee shop vibes... 😴",
+          "url": "https://youtu.be/kyvnngAEIpY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Lofi hip hop mix - Beats to Relax/Study to [2018]",
+          "url": "https://youtu.be/-FlxM_0S2lA"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Ian Ewing - Always Home [new EP]",
+          "url": "https://youtu.be/fN_BRGT2j5o"
+        },
+        {
+          "titulo":"Iman Omari - Ninjutsu",
+          "url":"https://youtu.be/f2aI66Rq25c"
+        },
+        {
+          "titulo":"L'indécis - Full Performance (Chillhop Live Session)",
+          "url":"https://youtu.be/lneQpcssBcA"
+        },
+        {
+          "titulo":"shogonodo - patience (full album)",
+          "url":"https://youtu.be/ZkE8bmUx-fA"
+        },
+        {
+          "titulo":"Mujo情 - Autumn Joints (Full BeatTape)",
+          "url":"https://youtu.be/4IJFIAQ_aiY"
+        },
+        {
+          "titulo":"LoFi House Mix 1988 | The Stoner House Edition by @Katarakt",
+          "url":"https://youtu.be/mlUMgZGFCtw"
+        },
+        {
+          "titulo":"BONUS ＨＯＵＳＥ¹ (Lo-Fi House Mix)",
+          "url":"https://youtu.be/Khd-uyOuhGo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Beattapes & Live Set",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "L.A.P.A Documentário completo",
+        "url": "https://youtu.be/mvqTqoWE_1Y"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "FloFilz • SP404 Live Set • Le Mellotron",
+          "url": "https://youtu.be/VRqPjQxUlY0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Tajima Hal • SP404 Lofi Live Set • Le Mellotron",
+          "url": "https://youtu.be/c9ksTvWXrzU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Khryo • SP404 Lofi Live Set • Le Mellotron",
+          "url": "https://youtu.be/2neMRqYkw_s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Sala 70 - RESET (Completo)",
+          "url": "https://youtu.be/qrXLcp-EBUA"
+        },
+        {
+          "titulo": "DIAZZ TAPE BEATBRASILIS SESSIONS",
+          "url": "https://youtu.be/AhTKkkFt_Zs"
+        },
+        {
+          "titulo": "Rafa Jazz SP 555 Live set",
+          "url": "https://youtu.be/NdgODgA9Ad0"
+        },
+        {
+          "titulo": "NGS 4000",
+          "url": "https://youtu.be/tMfvRo6qTsM"
+        },
+        {
+          "titulo": "Sue Novation Launchpad live set",
+          "url": "https://youtu.be/sG5HmyxeolE"
+        },
+        {
+          "titulo": "Beat Tape Pensamentos",
+          "url": "https://youtu.be/BcEJG1axfnY"
+        },
+        {
+          "titulo": "Raiany Sinara MASCHINE MK2 Live set",
+          "url": "https://youtu.be/eOYm7fvLg6o"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Live Set Bonus",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Amani77  SP 606 + MPC STUDIO  Live set",
+          "url": "https://youtu.be/zkxLZfcEpc4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "MALAK SP 404 Live set",
+          "url": "https://youtu.be/uIDiU9muiDs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "GOMZ1984 SP 404 SX Live set",
+          "url": "https://youtu.be/7DEyuqVrPL4"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "FR SP 404 Live set",
+          "url": "https://youtu.be/d0lyIkZj8Gk"
+        },
+        {
+          "titulo": "Dibiase Boiler Room Los Angeles Live Set",
+          "url": "https://youtu.be/SqxxtL8rIE0"
+        },
+        {
+          "titulo": "Ras G LIVE Show - Boiler Room Los Angeles",
+          "url": "https://youtu.be/wH3iBwnbU90"
+        },
+        {
+          "titulo": "STLNDRMS - VEGGIE TACOS | Live SP404 set",
+          "url": "https://youtu.be/9p5sLqLZ7xs"
+        },
+        {
+          "titulo": "Damu The Fudgemunk:Prosper LIVE on the MPC / Brooklyn 2009",
+          "url": "https://youtu.be/gRRpLjEaqxs"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Documentários",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Pete Rock's Soul Survivor Documentary (FULL)",
+        "url": "https://youtu.be/oZOtwl0DWZE"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "BEAT KINGS",
+          "url": "https://youtu.be/M5eCjkpQfsA"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Scratch (Hip-Hop Documentary) full",
+          "url": "https://youtu.be/jcOUYOg-dAM"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Sampling Documentary",
+          "url": "https://youtu.be/-HZOdRaeXmA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Electric Rhythm: The History of the Drum Machine | Reverb",
+          "url": "https://youtu.be/4d89S-jOsfY"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Sound City (2013) Filme Completo (Português BR)",
+          "url": "https://youtu.be/EV_FOdMtos0"
+        },
+        {
+          "titulo": "DJ Dusk's Root Down Soundclash 2008 - (By MeckuMusic)",
+          "url": "https://youtu.be/s8kVFsz4a_o"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Turntablism",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "1997 World ITF DJ Finals - Team and Advancement Categories",
+        "url": "https://youtu.be/TLlej8n9e38"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "1997 World ITF DJ Finals - Beat Juggling Final - DJ Babu vs Rholi Rho",
+          "url": "https://youtu.be/ZYWhurwQajU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "1997 World ITF DJ Finals - Scratching Final - DJ Babu vs Tony Vegas",
+          "url": "https://youtu.be/y4vtzCAPv84"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "X-Men vs Invisibl Skratch Piklz July 27, 1996 Team Round",
+          "url": "https://youtu.be/t0scteKsQrY"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Invisible Skratch Piklz - 1995 Profile Video with Tutorials and Performances",
+          "url": "https://youtu.be/W4w9PFrtYNQ"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "QUARTZ RISCOS E BATIDAS 2013 - FINAL - DJ RM",
+          "url": "https://youtu.be/X1wDlYKH1HQ"
+        },
+        {
+          "titulo": "Best Of 90's Turntablism",
+          "url": "https://youtu.be/FwVrXP_wxuk"
         }
       ]
     }
